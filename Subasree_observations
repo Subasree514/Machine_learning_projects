@@ -1,0 +1,6 @@
+For the heart data provided, both the algorithms logistic regression and random forest performed almost similar.
+ I do not think there is a significant difference in the accuracy of the predictions from  both of them. 
+ Among the top three features with higher weights, two of them coincided in the predictions from the two algorithms. 
+ They are thalach : Maximum heart rate during the stress test (#1 for logistic and #2 for RF) and oldpeak : Decrease of the ST segment during exercise according to the same one on rest at #3 in both of them. 
+ The feature at rank 2 for logistic is reversible -> thal: reversible defect (a blood flow is observed but it is not normal)and at rank 1 for RF is ca : Number of main blood vessels coloured by the radioactive dye (the number varies between 0 to 3). 
+ Removal of the bottom two or three features which contributed the least to the features did not improve the accuracy of the predictions in bith, it worsened them.
