@@ -5,7 +5,7 @@
 - contains a logistic regression and random forest ML classification pipeline for a biomedical dataset taken from https://github.com/sib-swiss/intro-machine-learning-training/tree/main/exam
 ### SIB_Regression
 - contains regression model pipelines for a biomedical dataset taken from https://github.com/sib-swiss/intro-machine-learning-training/tree/main/extra_practice
-### /SIB_pipelines
+### SIB_pipelines
 - contains biomedical datasets from https://github.com/sib-swiss/intermediate-machine-learning-training/tree/master/data
 - Different ML classifiers were applied to classify different labels and interpret the features that contribute to label seperation
 
