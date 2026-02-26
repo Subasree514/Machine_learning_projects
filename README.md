@@ -16,6 +16,6 @@
 - Files archived
 
 #### Reference:
-1. Duchemin, W., & Müller, M. (2025, October 2). Course material for Introduction to Machine Learning - SIB training. Zenodo. https://doi.org/10.5281/zenodo.17590780\\
+1. Duchemin, W., & Müller, M. (2025, October 2). Course material for Introduction to Machine Learning - SIB training. Zenodo. https://doi.org/10.5281/zenodo.17590780
 
-2. Duchemin, W., Müller, M., & Tran, V. D. (2025, November 17). Course material for the SIB course: Intermediate Machine Learning - Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics. Zenodo. https://doi.org/10.5281/zenodo.17657949\\
+2. Duchemin, W., Müller, M., & Tran, V. D. (2025, November 17). Course material for the SIB course: Intermediate Machine Learning - Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics. Zenodo. https://doi.org/10.5281/zenodo.17657949
