@@ -6,8 +6,8 @@
 ### SIB_Regression
 - Contains regression model pipelines for a biomedical dataset taken from https://github.com/sib-swiss/intro-machine-learning-training/tree/main/extra_practice
 ### SIB_pipelines
-- Different ML classifiers were applied to classify different labels and interpret the features that contribute to label seperation
-- For biomedical datasets taken from https://github.com/sib-swiss/intermediate-machine-learning-training/tree/master/data
+- Different ML classifiers were applied to classify different labels and interpret the features that contribute to label seperation for three different datasets
+- Datasets taken from https://github.com/sib-swiss/intermediate-machine-learning-training/tree/master/data
 ### Datasets
 - Contains a few datasets used in the analysis
 
