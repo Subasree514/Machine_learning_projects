@@ -2,10 +2,11 @@
 ### PCA
 - Contains PCA analysis of data taken from NPTEL 2025 course, Biological data analysis and visualization with R and UCI ML datasets
 ### SIB_Classification
+- /Logistic and /RF
 - Contains a logistic regression and random forest ML classification pipeline for a biomedical dataset taken from https://github.com/sib-swiss/intro-machine-learning-training/tree/main/exam
 ### SIB_Regression
 - Contains regression model pipelines for a biomedical dataset taken from https://github.com/sib-swiss/intro-machine-learning-training/tree/main/extra_practice
-### SIB_pipelines
+### SIB_pipelines/Pipelines
 - Different ML classifiers were applied to classify different labels and interpret the features that contribute to label seperation for three different datasets
 - Datasets taken from https://github.com/sib-swiss/intermediate-machine-learning-training/tree/master/data
 ### Datasets
