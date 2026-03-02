@@ -2,6 +2,7 @@
 ### PCA
 - Contains PCA analysis of data taken from NPTEL 2025 course, Biological data analysis and visualization with R and UCI ML datasets
 ### SIB_Classification
+- Kaggle_kidney_pipeline - A classification pipeline to classify presence/absence of a chronic kidney disease
 - /Logistic and /RF
 - Contains a logistic regression and random forest ML classification pipeline for a biomedical dataset taken from SIB training
 ### SIB_Regression
